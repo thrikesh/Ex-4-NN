@@ -1,6 +1,6 @@
 
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME:THRIKESWAR</H3>
+<H3>ENTER YOUR REGISTER NO:212222230162</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
@@ -177,13 +177,8 @@ print(classification_report(testing_b,predicted_values))
 `````
 
 <H3>Output:</H3>
-![p1a](https://github.com/thrikesh/Ex-4-NN/assets/119576222/65802ab4-22e7-44e9-82fd-5c4271bf5990)
-![p1](https://github.com/thrikesh/Ex-4-NN/assets/119576222/61b8967d-a17e-4ee0-addd-d8c08f9947b1)
-![p2](https://github.com/thrikesh/Ex-4-NN/assets/119576222/4ef47fda-0e78-42b1-ac64-bd0d62aa51ed)
-![p3](https://github.com/thrikesh/Ex-4-NN/assets/119576222/2bac1454-1f25-46c2-b66b-98982f47d053)
-![p3a](https://github.com/thrikesh/Ex-4-NN/assets/119576222/cb36811f-d676-4719-867a-bdbb63ea3c39)
-![p4](https://github.com/thrikesh/Ex-4-NN/assets/119576222/8ae1030f-a6b9-41ed-a3f4-f2dd6bf55040)
 
+![p1a](https://github.com/thrikesh/Ex-4-NN/assets/119576222/a054f44f-38c1-4a3d-9485-0fc6901ebc0b)
 
 
 
