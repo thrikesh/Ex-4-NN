@@ -179,6 +179,12 @@ print(classification_report(testing_b,predicted_values))
 <H3>Output:</H3>
 
 ![p1a](https://github.com/thrikesh/Ex-4-NN/assets/119576222/a054f44f-38c1-4a3d-9485-0fc6901ebc0b)
+![p1](https://github.com/thrikesh/Ex-4-NN/assets/119576222/056c1063-1b26-40a2-9e59-98bec20b36b7)
+![p2](https://github.com/thrikesh/Ex-4-NN/assets/119576222/ea1dc63a-1782-46d1-a4a4-45c9f1606757)
+![p3](https://github.com/thrikesh/Ex-4-NN/assets/119576222/dbe8abeb-10ee-44eb-a081-f79a79dc87b1)
+![p3a](https://github.com/thrikesh/Ex-4-NN/assets/119576222/00060aac-2747-4a3b-9563-a4fccf0235bb)
+![p4](https://github.com/thrikesh/Ex-4-NN/assets/119576222/817a70ff-1a3c-49dc-9fcc-1c2af327f85d)
+
 
 
 
